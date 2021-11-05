@@ -1,4 +1,4 @@
-function [fd, xd] = Derivative(f, x, n)
+function [fd, xd] = Q1_Derivative(f, x, n)
     fd = f;
     xd = x;
     for i = 1 : n

@@ -1,4 +1,4 @@
-function new_d_vec = Date(d_vec, add_day)
+function new_d_vec = Q3_Date(d_vec, add_day)
     new_d_vec = d_vec;
     
     separated_day = SepDay(add_day, d_vec(1), d_vec(2));

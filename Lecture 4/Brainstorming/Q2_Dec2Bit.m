@@ -1,4 +1,4 @@
-function bit_array = Dec2Bit(decimal, n)
+function bit_array = Q2_Dec2Bit(decimal, n)
     max_dec_with_n_bits = sum(2.^(0 : n - 1));
     if decimal <= max_dec_with_n_bits
         new_decimal = decimal;
