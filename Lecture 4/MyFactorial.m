@@ -1,12 +1,12 @@
-function fact = MyFactorial(x)
-     fact = 1;
+function f = MyFactorial(x)
      if x < 0
-         fact = -1;
+         error("Please enter a non-negative integer.");
      elseif x == 0
-         fact = 1;
+         f = 1;
      else
-         for i = x : -1 : 1
-             fact = fact * i;
+         f = 1;
+         for i = 1 : x
+             f = f * i;
          end
      end
 end
