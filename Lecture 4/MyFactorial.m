@@ -4,9 +4,6 @@ function f = MyFactorial(x)
      elseif x == 0
          f = 1;
      else
-         f = 1;
-         for i = 1 : x
-             f = f * i;
-         end
+         f = prod(1 : x);
      end
 end
