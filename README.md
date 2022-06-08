@@ -10,7 +10,7 @@
 - ➡️ In this course, you will learn the fundamentals of MATLAB from defining variables to loops, functions, and 3D visualization
 - ➡️ You will also have the opportunity of testing yourself with the problems having different difficulty levels
 
-<p align="center"><img src="https://user-images.githubusercontent.com/18036489/172605808-12e687fe-ad8e-4104-82e8-dddee5f91585.png" width="1400"</p>
+<p align="center"><img src="https://user-images.githubusercontent.com/18036489/172632759-2073fbaa-6ffe-4b3e-b077-ab0bfdbb4929.png" width="1400"</p>
   
 <h3 align="center">🧠 Brainstorming 🤯</h3>
 
@@ -19,7 +19,7 @@
 
 ❓ ***1P1B: 1 PROBLEM 1 BİLGİ KÖŞESİ*** 💡
 
-<p><img src="https://user-images.githubusercontent.com/18036489/172611143-1518c4ab-426c-4428-ab49-15d1a521f48f.png" width="500"</p>
+<p align="center"><img src="https://user-images.githubusercontent.com/18036489/172611143-1518c4ab-426c-4428-ab49-15d1a521f48f.png" width="500"</p>
   
 - ➡️ This part provides a built-in MATLAB function and its example usage. It might be the well-known usage of the function or a particular use case. Thus, you will learn prior to challenging yourself!
 
