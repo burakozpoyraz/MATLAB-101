@@ -26,3 +26,5 @@
 💢 ***PROBLEM*** ♨️
 
 - ➡️ This part informs you about the topic of the problem, lists MATLAB structures you have to know (vectors, loops, etc.), and explains the problem. Your mission is to create the function with the given name, and ensure it works as expected. Once your function is ready, you can run the test cases and check if you pass these test cases. Good luck!
+
+<h3 align="center">🔶 Stay Tuned, Stay with MATLAB 🔶</h3>
