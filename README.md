@@ -3,7 +3,7 @@
 ![Issues Badge](https://img.shields.io/github/issues/burakozpoyraz/MATLAB-101)
 ![Forks Badge](https://img.shields.io/github/forks/burakozpoyraz/MATLAB-101)
 ![Stars Badge](https://img.shields.io/github/stars/burakozpoyraz/MATLAB-101)
-<p align="center"><img src="https://user-images.githubusercontent.com/18036489/172574503-bc4cf0e2-f3f2-4e3c-858f-ac59439f4142.jpg" width="1400"</p>
+<p align="center"><img src="https://github.com/burakozpoyraz/MATLAB-101/assets/18036489/5e263252-f970-41d9-a27a-32e44af53934" width="1400"</p>
 
 <h3 align="center">🔢 Welcome to my Introductory MATLAB Course 🔢</h3>
 
