@@ -22,6 +22,10 @@ while new_game
                 L = input("Lütfen maksimum tahmin sayınızı 1'den büyük bir sayı olarak seçiniz, " + ...
                     "eğer limit koymak istemiyorsanız 0 seçiniz: ");
             end
+
+            if L == 0
+                L = 1e6;
+            end
         case 1
             x = 10;
             L = 1e6;
@@ -38,8 +42,13 @@ while new_game
             x = 500;
             L = 3;
     end
-    fprintf("Oyun başlıyor... 1 ile %d arasında bir sayı tahmin etmeye çalışacaksınız ve " + ...
-        "toplamda tahmin %d hakkınız var.\n", x, L);
+    if L == 1e6
+        fprintf("Oyun başlıyor... 1 ile %d arasında bir sayı tahmin etmeye çalışacaksınız ve " + ...
+        "toplamda sonsuz tahmin hakkınız var.\n", x);
+    else
+        fprintf("Oyun başlıyor... 1 ile %d arasında bir sayı tahmin etmeye çalışacaksınız ve " + ...
+        "toplamda %d tahmin hakkınız var.\n", x, L);
+    end
     
     rand_int = randi([1, x], [1, 1]);
     true_guess = 0;
@@ -51,9 +60,9 @@ while new_game
             num_win = num_win + 1;
             fprintf("Doğru bildiniz!!!\n");
         elseif guess < rand_int
-            fprintf("Bilemediniz :( Daha büyük bir sayı tahmin etmeniz gerekiyor.\n");
+            fprintf("Bilemediniz :( Daha büyük bir sayı tahmin etmeniz gerekiyor. Geriye %d tahmin hakkınız kaldı.\n", L - guess_count);
         else
-            fprintf("Bilemediniz :( Daha küçük bir sayı tahmin etmeniz gerekiyor.\n");
+            fprintf("Bilemediniz :( Daha küçük bir sayı tahmin etmeniz gerekiyor. Geriye %d tahmin hakkınız kaldı.\n", L - guess_count);
         end
         guess_count = guess_count + 1;
     end
