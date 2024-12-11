@@ -18,8 +18,8 @@ while new_game
             end
     
             L = -1;
-            while L == 1 || L < 0
-                L = input("Lütfen maksimum tahmin sayınızı 1'den büyük bir sayı olarak seçiniz, " + ...
+            while L < 0
+                L = input("Lütfen maksimum tahmin sayınızı pozitif bir sayı olarak seçiniz, " + ...
                     "eğer limit koymak istemiyorsanız 0 seçiniz: ");
             end
 
@@ -42,6 +42,7 @@ while new_game
             x = 500;
             L = 3;
     end
+    
     if L == 1e6
         fprintf("Oyun başlıyor... 1 ile %d arasında bir sayı tahmin etmeye çalışacaksınız ve " + ...
         "toplamda sonsuz tahmin hakkınız var.\n", x);
