@@ -38,4 +38,4 @@
 
 <h2 align="center">EĞİTİM TALEBİ</h2>
 🔸 Üniversitelerin öğrenci kulüplerine yönelik gönüllü olarak düzenlenen bir eğitim olduğu için talep doğrultusunda düzenlenmektedir.<br>
-🔸 Eğitim talebinde bulunmak için [talep formunu](https://bit.ly/4gHtdug) doldurabilirsiniz. Talebiniz oluştuktan sonra sizinle en kısa zamanda iletişime geçilecektir.
+🔸 Eğitim talebinde bulunmak için <a href="https://bit.ly/4gHtdug">talep formunu</a> doldurabilirsiniz. Talebiniz oluştuktan sonra sizinle en kısa zamanda iletişime geçilecektir.
