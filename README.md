@@ -17,8 +17,7 @@
 
 <p align="center"><img src="https://github.com/burakozpoyraz/MATLAB-101/assets/18036489/4b4ff934-3955-49c5-a09c-05c6b1ee3308" width="400"</p>
 <h2 align="center">EĞİTİM HAKKINDA</h2>
-🔸 MATLAB-101 eğitimi, sıfırdan başlayarak temel programlama kavramlarını öğretmek ve MATLAB’i etkin bir şekilde kullanmayı sağlamak için tasarlanmıştır. Bu eğitim, teorik bilgileri pratiğe dönüştürmeye odaklanarak algoritma geliştirme, veri analizi ve görselleştirme gibi kritik becerileri kazandırmayı hedefler.<br>
-🔸 Üniversitelerin öğrenci kulüplerine yönelik gönüllü olarak düzenlenen bir eğitim olduğu için talep doğrultusunda düzenlenmektedir.
+🔸 MATLAB-101 eğitimi, sıfırdan başlayarak temel programlama kavramlarını öğretmek ve MATLAB’i etkin bir şekilde kullanmayı sağlamak için tasarlanmıştır. Bu eğitim, teorik bilgileri pratiğe dönüştürmeye odaklanarak algoritma geliştirme, veri analizi ve görselleştirme gibi kritik becerileri kazandırmayı hedefler.
 
 <h3>📌 Kimler İçin Uygun</h3>
 🔸 MATLAB’i hiç bilmeyen ancak öğrenmek isteyenler<br>
@@ -35,5 +34,8 @@
 🔸 2D ve 3D görselleştirmelerle verileri etkili bir şekilde analiz etmeyi
 
 <h2 align="center">DERS İÇERİKLERİ</h2>
-<p align="center"><img src="https://user-images.githubusercontent.com/18036489/172632759-2073fbaa-6ffe-4b3e-b077-ab0bfdbb4929.png" width="1400"</p>
-  
+<p align="center"><img src="https://github.com/burakozpoyraz/MATLAB-101/assets/18036489/e2ef8e93-fd56-41da-b23b-9a55d1e84cf7" width="1400"</p>
+
+<h2 align="center">EĞİTİM TALEBİ</h2>
+🔸 Üniversitelerin öğrenci kulüplerine yönelik gönüllü olarak düzenlenen bir eğitim olduğu için talep doğrultusunda düzenlenmektedir.<br>
+🔸 Eğitim talebinde bulunmak için [talep formunu](https://bit.ly/4gHtdug) doldurabilirsiniz. Talebiniz oluştuktan sonra sizinle en kısa zamanda iletişime geçilecektir.
