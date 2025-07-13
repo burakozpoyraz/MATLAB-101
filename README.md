@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/2020-1%20Course-94B3D1?style=for-the-badge&labelColor=2268A5">
-  <img src="https://img.shields.io/badge/2021-6%20Course-94B3D1?style=for-the-badge&labelColor=2268A5">
-  <img src="https://img.shields.io/badge/2022-3%20Course-94B3D1?style=for-the-badge&labelColor=2268A5">
-  <img src="https://img.shields.io/badge/2023-3%20Course-94B3D1?style=for-the-badge&labelColor=2268A5">
-  <img src="https://img.shields.io/badge/2024-9%20Course-94B3D1?style=for-the-badge&labelColor=2268A5">
-  <img src="https://img.shields.io/badge/2025-2%20Course-94B3D1?style=for-the-badge&labelColor=2268A5">
-  <img src="https://img.shields.io/badge/TOTAL-22%20Courses-F8F0E8?style=for-the-badge&labelColor=65743A">
+  <img src="https://img.shields.io/badge/2020-1 Course-94B3D1?style=for-the-badge&labelColor=2268A5">
+  <img src="https://img.shields.io/badge/2021-6 Course-94B3D1?style=for-the-badge&labelColor=2268A5">
+  <img src="https://img.shields.io/badge/2022-3 Course-94B3D1?style=for-the-badge&labelColor=2268A5">
+  <img src="https://img.shields.io/badge/2023-3 Course-94B3D1?style=for-the-badge&labelColor=2268A5">
+  <img src="https://img.shields.io/badge/2024-9 Course-94B3D1?style=for-the-badge&labelColor=2268A5">
+  <img src="https://img.shields.io/badge/2025-2 Course-94B3D1?style=for-the-badge&labelColor=2268A5">
+  <img src="https://img.shields.io/badge/TOTAL-24 Courses-F8F0E8?style=for-the-badge&labelColor=65743A">
 </p>
 
 <p align="center"><img src="https://github.com/burakozpoyraz/MATLAB-101/assets/18036489/4b4ff934-3955-49c5-a09c-05c6b1ee3308" width="400"</p>
