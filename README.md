@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/2022-3%20Course-94B3D1?style=for-the-badge&labelColor=2268A5">
   <img src="https://img.shields.io/badge/2023-3%20Course-94B3D1?style=for-the-badge&labelColor=2268A5">
   <img src="https://img.shields.io/badge/2024-9%20Course-94B3D1?style=for-the-badge&labelColor=2268A5">
+  <img src="https://img.shields.io/badge/2025-2%20Course-94B3D1?style=for-the-badge&labelColor=2268A5">
   <img src="https://img.shields.io/badge/TOTAL-22%20Courses-F8F0E8?style=for-the-badge&labelColor=65743A">
 </p>
 
