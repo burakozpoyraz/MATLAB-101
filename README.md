@@ -36,7 +36,3 @@
 
 <h2 align="center">DERS İÇERİKLERİ</h2>
 <p align="center"><img src="https://github.com/burakozpoyraz/MATLAB-101/assets/18036489/e2ef8e93-fd56-41da-b23b-9a55d1e84cf7" width="1400"</p>
-
-<h2 align="center">EĞİTİM TALEBİ</h2>
-🔸 Üniversitelerin öğrenci kulüplerine yönelik gönüllü olarak düzenlenen bir eğitim olduğu için talep doğrultusunda düzenlenmektedir.<br>
-🔸 Eğitim talebinde bulunmak için <a href="https://bit.ly/4gHtdug">talep formunu</a> doldurabilirsiniz. Talebiniz oluştuktan sonra sizinle en kısa zamanda iletişime geçilecektir.
